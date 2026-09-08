@@ -3,8 +3,6 @@
   {
     "Needs#append":
     [
-      "Bento",
-      "BotKit",
       "Hedge",
       "Grapes",
       "GrapeJuice",

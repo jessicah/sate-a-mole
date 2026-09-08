@@ -17,24 +17,7 @@
     ],
     "BlueprintModifiers#append":
     [
-      /* LeafCoats *
-      {
-        "Original": "Goods/Good.Bento.blueprint",
-        "Modifier": "zxuiji/Bentos/Bento.AddNeeds.LeafCoats.optional.blueprint"
-      },
-      {
-        "Original": "Recipes/Recipe.Bento.blueprint",
-        "Modifier": "zxuiji/Bentos/Bento.AddReqGoods.LeafCoats.optional.blueprint"
-      },
-      {
-        "Original": "Goods/Good.BotKit.blueprint",
-        "Modifier": "zxuiji/BotKits/BotKit.AddNeeds.LeafCoats.optional.blueprint"
-      },
-      {
-        "Original": "Recipes/Recipe.BotKit.blueprint",
-        "Modifier": "zxuiji/BotKits/BotKit.AddReqGoods.LeafCoats.optional.blueprint"
-      }
-      /* */
+      /* LeafCoats */
       {
         "Original": "Mole/Grows/AppleTree.Mole.blueprint",
         "Modifier": "Mole/Mods/Models/SetAppleTreeModels.optional.blueprint"

@@ -1,11 +1,6 @@
 ID,Text,Comment
 Need.PlantMurderer.DisplayName,Plant Killer,
 HR,======================================================================,
-Wares.Bentos.Lone,Bento,
-Wares.Bentos.Name,Bentos,
-Wares.BotKits.Lone,Bot Kit,
-Wares.BotKits.Name,Bot Kits,
-HR,======================================================================,
 MoleCadre.HedgePath.Name,Hedge Path,
 MoleCadre.HedgePath.Desc,"A path with hedges along the border",
 MoleCadre.HedgeGate.Name,Hedge Path,
