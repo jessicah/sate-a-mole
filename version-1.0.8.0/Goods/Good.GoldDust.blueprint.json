@@ -15,7 +15,7 @@
     "ContainerMaterial": "",
     "CarryingAnimation": "CarryOnArm",
     "Weight": 1,
-    "GoodGroupId": "Metal",
+    "GoodGroupId": "Warehouses",
     "GoodOrder": 10105,
     "Icon": "Mole/Metal/GoldDust",
     "ForceImport": false,
