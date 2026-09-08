@@ -1,7 +1,7 @@
 {
   "GoodSpec":
   {
-    "GoodGroupId": "Depos",
-    "Icon": "Mole/Depos/Bricks"
+    "GoodGroupId": "Warehouses",
+    "Icon": "Mole/Warehouses/Bricks"
   }
 }

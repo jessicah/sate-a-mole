@@ -16,7 +16,7 @@
       "Wares.Branch.Whitepaws",
       "Wares.Branch.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/Branches"
   }
 }

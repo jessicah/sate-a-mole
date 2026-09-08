@@ -15,7 +15,7 @@
       "Wares.PlantFiber.Whitepaws",
       "Wares.PlantFiber.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/PlantFibers",
     "DisplayNameLocKey": "Wares.PlantFibers.Lone",
     "PluralDisplayNameLocKey": "Wares.PlantFibers.Name"

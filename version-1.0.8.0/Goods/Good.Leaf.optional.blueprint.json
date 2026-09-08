@@ -16,7 +16,7 @@
       "Wares.Leaf.Whitepaws",
       "Wares.Leaf.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/Leaves"
   }
 }

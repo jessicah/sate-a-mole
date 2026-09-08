@@ -15,7 +15,7 @@
       "Wares.LotusFlower.Whitepaws",
       "Wares.LotusFlower.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/LotusFlower",
     "DisplayNameLocKey": "Wares.LotusFlowers.Lone",
     "PluralDisplayNameLocKey": "Wares.LotusFlowers.Name"

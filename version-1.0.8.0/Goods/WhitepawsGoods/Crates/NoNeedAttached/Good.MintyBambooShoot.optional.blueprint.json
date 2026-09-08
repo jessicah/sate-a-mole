@@ -15,7 +15,7 @@
       "Wares.BambooShoot.Whitepaws",
       "Wares.BambooShoot.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/BambooShoots",
     "DisplayNameLocKey": "Wares.BambooShoots.Lone",
     "PluralDisplayNameLocKey": "Wares.BambooShoots.Name"

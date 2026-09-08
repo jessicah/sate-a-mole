@@ -15,7 +15,7 @@
       "Wares.MeanFlower.Whitepaws",
       "Wares.MeanFlower.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/MeanFlowers",
     "DisplayNameLocKey": "Wares.MeanFlowers.Lone",
     "PluralDisplayNameLocKey": "Wares.MeanFlowers.Name"

@@ -16,7 +16,7 @@
       "Wares.Rice.Whitepaws",
       "Wares.Rice.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Ingredients",
     "Icon": "Mole/Grows/RiceGrains",
     "DisplayNameLocKey": "Wares.RiceGrains.Name",
     "PluralDisplayNameLocKey": "Wares.RiceGrains.Name"

@@ -12,9 +12,9 @@
 		"ContainerMaterial": "",
 		"CarryingAnimation": "CarryInHands",
 		"Weight": 1,
-		"GoodGroupId": "Depos",
+		"GoodGroupId": "Warehouses",
 		"GoodOrder": 900030,
 		"ForceImport": false,
-		"Icon": "Mole/Depos/BotKits"
+		"Icon": "Mole/Warehouses/BotKits"
 	}
 }

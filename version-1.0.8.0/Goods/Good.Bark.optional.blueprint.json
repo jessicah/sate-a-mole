@@ -10,7 +10,7 @@
       "Wares.Bark.Whitepaws",
       "Wares.Bark.Common"
     ],
-    "GoodGroupId": "Depos",
+    "GoodGroupId": "Warehouses",
     "Icon": "Mole/Grows/Bark"
   }
 }
