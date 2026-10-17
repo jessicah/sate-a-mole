@@ -1,5 +1,6 @@
 {
-  "GoodSpec": {
+  "GoodSpec": {	
+    "GoodGroupId": "Piles",
     "BackwardCompatibleIds":
     [
       "Wares.GiantLogs.Emberpelts",
