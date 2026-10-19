@@ -1,7 +1,7 @@
 {
 	"ManufactorySpec":
 	{
-		"ProductionRecipeIds#remove": [ "GrapeJuice", "Grapejuice" ],
+		"ProductionRecipeIds#remove": [ "Grapejuice" ],
 		"ProductionRecipeIds#append":
 		[
 			"RedGrapeJuice",

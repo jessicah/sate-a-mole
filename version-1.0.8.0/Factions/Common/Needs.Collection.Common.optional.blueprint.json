@@ -3,10 +3,10 @@
   {
     "Needs#append":
     [
-      "Hedge",
-      "Grapes",
-      "GrapeJuice",
-      "Juice"
-    ]
+      "RedGrapeJuice"
+    ],
+	"Needs#remove":[
+		"GrapeJuice"
+	]
   }
 }

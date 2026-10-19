@@ -1,0 +1,54 @@
+{
+  "RecipeSpec": {
+  "Ingredients": [
+    {
+      "Id": "Berryjuice",
+      "Amount": 1
+    },
+    {
+      "Id": "RedGrapeJuice",
+      "Amount": 1
+    },
+    {
+      "Id": "CoconutMilk",
+      "Amount": 1
+    },
+    {
+      "Id": "Ananas",
+      "Amount": 1
+    },
+    {
+      "Id": "Banana",
+      "Amount": 1
+    },
+    {
+      "Id": "Coffee",
+      "Amount": 1
+    },
+    {
+      "Id": "Amazake",
+      "Amount": 1
+    },
+    {
+      "Id": "DandelTea",
+      "Amount": 1
+    },
+    {
+      "Id": "ChestnutBeer",
+      "Amount": 1
+    },
+    {
+      "Id": "Wine",
+      "Amount": 1
+    },
+    {
+      "Id": "RedSoda",
+      "Amount": 1
+    },
+    {
+      "Id": "IceBlock",
+      "Amount": 1
+    }
+  ]
+  }
+}

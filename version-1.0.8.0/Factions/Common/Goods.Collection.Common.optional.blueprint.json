@@ -3,10 +3,10 @@
   {
     "Goods#append":
     [
-      "Grapes",
-      "GrapeJuice",
+      /*"Grapes",*/
+      "RedGrapeJuice"/*
       "Parsnip",
-      "SugarCane"
+      "SugarCane"*/
     ]
   }
 }
