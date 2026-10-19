@@ -1,0 +1,11 @@
+{
+	"RecipeSpec":
+	{
+		"Id": "GreenGrapeJuice",
+		"BackwardCompatibleIds": [],
+		"Icon": "Mole/Drinks/GreenGrapeJuice",
+		"DisplayLocKey": "Wares.GreenGrapeJuice.Name",
+		"Ingredients":[ { "Id": "GreenGrapes", "Amount": 10 } ],
+		"Products": [ { "Id": "GreenGrapeJuice", "Amount": 20 } ]
+	}
+}

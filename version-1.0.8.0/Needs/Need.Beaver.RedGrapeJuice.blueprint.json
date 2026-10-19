@@ -14,7 +14,7 @@
 		"Effectiveness": 1.0,
 		"Wastable": true,
 		"HoursWarningThreshold": 0.0,
-		"DisplayNameLocKey": "Wares.GrapeJuice.Name",
+		"DisplayNameLocKey": "Wares.RedGrapeJuice.Name",
 		"FavorableWellbeing": 1,
 		"UnfavorableWellbeing": 0
 	}

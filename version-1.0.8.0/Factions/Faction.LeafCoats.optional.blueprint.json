@@ -29,6 +29,10 @@
       {
         "Original": "Mole/Grows/WillowTree.Mole.blueprint",
         "Modifier": "Mole/Mods/Models/SetWillowTreeModels.optional.blueprint"
+      },
+      {
+        "Original": "Mole/Grows/GreenGrapeVine.Mole.blueprint",
+        "Modifier": "Mole/Mods/Models/SetGreenGrapeVineModels.optional.blueprint"
       }
     ]
   }

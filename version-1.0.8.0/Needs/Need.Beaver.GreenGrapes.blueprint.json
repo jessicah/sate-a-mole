@@ -1,7 +1,8 @@
-{"NeedSpec":
+{
+  "NeedSpec":
   {
     "Id": "GreenGrapes",
-    "BackwardCompatibleIds": [],
+    "BackwardCompatibleIds": ["Grapes"],
     "Order": 20,
     "NeedGroupId": "Nutrition",
     "CharacterType": "Beaver",

@@ -1,0 +1,10 @@
+{
+	"GatherableSpec": {
+		"Yielder": {
+			"Yield": {
+				"Id": "RedGrapes",
+				"Amount": 5
+			}
+		}
+	}
+}

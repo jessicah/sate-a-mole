@@ -26,14 +26,15 @@
   },
   "TemplateSpec":
   {
-    "TemplateName": "GreenGrapesVine",
+    "TemplateName": "GreenGrapeVine",
     "BackwardCompatibleTemplateNames":
     [
       "GrapeVine",
+	  "GrapeVine.LeafCoats",
       "GrapeVines",
-      "Grows.GreenGrapePlant.LeafCoats",
       "Grows.GreenGrapesPlant.LeafCoats",
-      "Grows.GreenGrapeVinessPlant.LeafCoats"
+      "Grows.GreenGrapeVinessPlant.LeafCoats",
+	  "GreenGrapesVine"
     ],
     "RequiredFeatureToggle": "",
     "DisablingFeatureToggle": ""
@@ -41,7 +42,7 @@
   "NaturalResourceSpec": { "Order": 501 },
   "GrowableSpec": { "GrowthTimeInDays": 5.0 },
   "BasicSelectionSoundSpec": { "SoundName": "Bush", "AlternativeSoundName": "" },
-  "PlantableSpec": { "ResourceGroup": "Forester", "PlantTimeInHours": 0.2 },
+  "PlantableSpec": { "ResourceGroup": "Forester.LeafCoats", "PlantTimeInHours": 0.2 },
   "DemolishableSpec": {
     "DemolishTimeInHours": 0.5,
     "ShowDemolishButtonInEntityPanel": false

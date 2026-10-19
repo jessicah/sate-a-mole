@@ -4,8 +4,7 @@
 		"ProductionRecipeIds#remove": [ "Grapejuice" ],
 		"ProductionRecipeIds#append":
 		[
-			"RedGrapeJuice",
-			"RushedRedGrapeJuice"
+			"RedGrapeJuice"
 		]
 	}
 }

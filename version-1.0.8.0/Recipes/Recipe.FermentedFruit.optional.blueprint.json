@@ -3,7 +3,7 @@
   "GoodSpec#delete": {},
   "RecipeSpec":
   {
-    "Ingredients#remove": [ { "Id": "Grapes" } ],
-    "Ingredients#append": [ { "Id": "GreenGrapes", "Amount": 7 } ]
+    "Ingredients#remove": [ { "Id": "Grapes", "Amount": 7 }],
+	"Ingredients#append": [ { "Id": "GreenGrapes", "Amount": 3}, { "Id": "RedGrapes", "Amount": 4}]
   }
 }

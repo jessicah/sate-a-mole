@@ -1,1 +1,6 @@
-{ "RecipeSpec": { "Ingredients#append": [ { "Id": "GreenGrapes", "Amount": 3 } ] } }
+{
+	"RecipeSpec": {
+		"Ingredients#remove": [{"Id": "Grapes", "Amount": 3}],
+		"Ingredients#append": [{"Id": "GreenGrapes", "Amount": 3}]
+	}
+}

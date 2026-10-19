@@ -1,0 +1,57 @@
+{
+  "PlantablePreviewModelSpec": { "Model": "All/GrapeVine/Young" },
+  "Children":
+  {
+    "#Models":
+    {
+      "Children":
+      {
+        "Seedling":
+        {
+          "Children":
+          {
+            "#Dead":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/YoungDead" }
+            },
+            "#Dying":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/YoungDry" }
+            },
+            "#Alive":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/Young" }
+            }
+          }
+        },
+        "Mature":
+        {
+          "Children":
+          {
+            "#Dead":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/GrownDead" }
+            },
+            "#Dying":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/GrownDry" }
+            },
+            "#Alive":
+            {
+              "Children#delete": {},
+              "TimbermeshSpec": { "Model": "All/GrapeVine/Grown" }
+            }
+          }
+        },
+        "#Leftover": {
+          "TimbermeshSpec": { "Model": "All/GrapeVine/GrownStump" }
+        }
+      }
+    }
+  }
+}

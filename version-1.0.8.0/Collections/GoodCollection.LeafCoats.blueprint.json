@@ -1,0 +1,11 @@
+{
+	"GoodCollectionSpec": {
+		"Goods#remove": [
+			"Grapes"
+		],
+		"Goods#append": [
+			"GreenGrapes",
+			"GreenGrapeJuice"
+		]
+	}
+}
