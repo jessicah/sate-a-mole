@@ -1,0 +1,6 @@
+{
+	"BeaverFactionSplitNeedsSpec": {
+		"Needs#remove": ["Grapes"],
+		"Needs#append": ["RedGrapes"]
+	}
+}
