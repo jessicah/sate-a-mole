@@ -1,0 +1,4 @@
+{
+	"ManufactoryTogglableRecipesSpec#delete": {},
+	"ManufactorySpec": { "ProductionRecipeIds#append": [ "GreenGrapeJuice" ] }
+}
